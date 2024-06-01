@@ -1,6 +1,6 @@
 
-# SoftUni-Projects - RESTful API: RestSharp API Tests 
-## This is a test project for Back-End Test Automation March 2024 Course @ SoftUni
+## SoftUni-Projects - RESTful API: RestSharp API Tests 
+### This is a test project for Back-End Test Automation March 2024 Course @ SoftUni
 
 <li>Back-End Test Automation - Exam Prep I - The "Idea Center" System</li>
 
