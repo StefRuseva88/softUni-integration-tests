@@ -11,6 +11,7 @@ This project focuses on automating tests for the "Idea Center" system, a platfor
 
 - User authentication and authorization
 - Idea submission and retrieval
+- Idea edition and deletion
 - Error handling and validation
   
 ### 2. Back-End Test Automation - Exam Prep II: The "Foody" System
@@ -18,6 +19,7 @@ The "Foody" system project involves automating tests for a food delivery service
 
 - User authentication and authorization
 - Food submission and retrieval
+- Food edition and deletion
 - Error handling and validation
 
 ### 3. Back-End Test Automation – Regular Exam: The "Story Spoiler" System
@@ -25,6 +27,7 @@ For the regular exam, the project automates tests for the "Story Spoiler" system
 
 - User authentication and authorization
 - Spoiler submission and retrieval
+- Spoiler edition and deletion
 - Error handling and validation
   
 ### Technologies Used
@@ -34,7 +37,7 @@ For the regular exam, the project automates tests for the "Story Spoiler" system
 ### Project Structure
 - /Tests: Contains the test cases for each system.
 - /Models: Contains the models representing the API responses and requests.
-- /Utilities: Contains utility classes for common functionalities such as configuration and logging.
+  
 ### Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
