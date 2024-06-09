@@ -1,7 +1,7 @@
 
 # SoftUni-Projects - RestSharp API Tests 
 ## This is a test project for Back-End Test Automation March 2024 Course @ SoftUni
-
+---
 ### Project Description
 This repository contains a series of test projects designed to practice and demonstrate skills in back-end test automation. The tests are written using RestSharp for API interactions and NUnit for testing framework.
 
