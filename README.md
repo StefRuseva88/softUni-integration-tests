@@ -35,8 +35,8 @@ For the regular exam, the project automates tests for the "Story Spoiler" system
 - NUnit: A unit-testing framework for all .NET languages.
 
 ### Project Structure
-- /Tests: Contains the test cases for each system.
-- /Models: Contains the models representing the API responses and requests.
+- Tests: Contains the test cases for each system.
+- Models: Contains the models representing the API responses and requests.
   
 ### Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
