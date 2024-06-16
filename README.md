@@ -23,7 +23,7 @@ The "Foody" system project involves automating tests for a food delivery service
 - Error handling and validation
 
 ### 3. Back-End Test Automation – The "Story Spoiler" System
-For the regular exam, the project automates tests for the "Story Spoiler" system, an application that provides users with spoilers for their favorite stories. Test cases include:
+The project automates tests for the "Story Spoiler" system, an application that provides users with spoilers for their favorite stories. Test cases include:
 
 - User authentication and authorization
 - Spoiler submission and retrieval
