@@ -3,12 +3,12 @@
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-## This is a test project for Back-End Test Automation March 2024 Course @ SoftUni
+### This is a test project for Back-End Test Automation March 2024 Course @ SoftUni
 ---
-### Project Description
+## Project Description
 This repository contains a series of test projects designed to practice and demonstrate skills in back-end test automation. The tests are written using RestSharp for API interactions and NUnit for testing framework.
 
-### Projects Included
+## Projects Included
 ### 1. Back-End Test Automation - The "Idea Center" System
 This project focuses on automating tests for the "Idea Center" system, a platform where users can submit and discuss innovative ideas. The test cases cover:
 
@@ -33,11 +33,11 @@ The project automates tests for the "Story Spoiler" system, an application that 
 - Spoiler edition and deletion
 - Error handling and validation
   
-### Technologies Used
+## Technologies Used
 - RestSharp: A simple REST and HTTP API client for .NET.
 - NUnit: A unit-testing framework for all .NET languages.
 
-### Project Structure
+## Project Structure
 - Tests: Contains the test cases for each system.
 - Models: Contains the models representing the API responses and requests.
   
