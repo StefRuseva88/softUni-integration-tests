@@ -10,27 +10,18 @@ This repository contains a series of test projects designed to practice and demo
 
 ## Projects Included
 ### 1. Back-End Test Automation - The "Idea Center" System
-This project focuses on automating tests for the "Idea Center" system, a platform where users can submit and discuss innovative ideas. The test cases cover:
+This project focuses on automating tests for the "Idea Center" system, a platform where users can submit and discuss innovative ideas.
 
+### 2. Back-End Test Automation - The "Foody" System
+The "Foody" system project involves automating tests for a food review service API. 
+
+### 3. Back-End Test Automation – The "Story Spoiler" System
+The project automates tests for the "Story Spoiler" system, an application that provides users with spoilers for their favorite stories.
+
+## Test Case Coverage
 - User authentication and authorization
 - Idea submission and retrieval
 - Idea edition and deletion
-- Error handling and validation
-  
-### 2. Back-End Test Automation - The "Foody" System
-The "Foody" system project involves automating tests for a food delivery service API. This project includes test cases for:
-
-- User authentication and authorization
-- Food submission and retrieval
-- Food edition and deletion
-- Error handling and validation
-
-### 3. Back-End Test Automation – The "Story Spoiler" System
-The project automates tests for the "Story Spoiler" system, an application that provides users with spoilers for their favorite stories. Test cases include:
-
-- User authentication and authorization
-- Spoiler submission and retrieval
-- Spoiler edition and deletion
 - Error handling and validation
   
 ## Technologies Used
