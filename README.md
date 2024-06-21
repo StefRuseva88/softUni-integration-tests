@@ -40,7 +40,16 @@ The project automates tests for the "Story Spoiler" system, an application that 
 ## Project Structure
 - Tests: Contains the test cases for each system.
 - Models: Contains the models representing the API responses and requests.
-  
+
+## RestClient Initialization and Configuration
+1. **Initialize a RestClient with the base URL of the API.**
+2. **Authenticate with your credentials, and store the received JWT token.**
+   - Authenticate by sending a request with your credentials.
+   - Capture the JWT token from the response and store it securely for subsequent requests.
+3. **Configure the RestClient with an Authenticator using the stored JWT token.**
+   - Use the stored JWT token to configure the RestClient's Authenticator.
+   - This setup ensures that all subsequent requests made by the RestClient are authenticated.
+
 ### Contributing
 Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
