@@ -25,12 +25,12 @@ The project automates tests for the "Story Spoiler" system, an application that 
 - Error handling and validation
   
 ## Technologies Used
-- RestSharp: A simple REST and HTTP API client for .NET.
-- NUnit: A unit-testing framework for all .NET languages.
+- **RestSharp**: A simple REST and HTTP API client for .NET.
+- **NUnit**: A unit-testing framework for all .NET languages.
 
 ## Project Structure
-- Tests: Contains the test cases for each system.
-- Models: Contains the models representing the API responses and requests.
+- **Tests**: Contains the test cases for each system.
+- **Models**: Contains the models representing the API responses and requests.
 
 ## RestClient Initialization and Configuration
 1. **Initialize a RestClient with the base URL of the API.**
