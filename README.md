@@ -20,8 +20,8 @@ The project automates tests for the "Story Spoiler" system, an application that 
 
 ## Test Case Coverage
 - User authentication and authorization
-- Idea submission and retrieval
-- Idea edition and deletion
+- User data submission and retrieval
+- User data edition and deletion
 - Error handling and validation
   
 ## Technologies Used
