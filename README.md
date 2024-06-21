@@ -9,14 +9,9 @@
 This repository contains a series of test projects designed to practice and demonstrate skills in back-end test automation. The tests are written using RestSharp for API interactions and NUnit for testing framework.
 
 ## Projects Included
-### The "Idea Center" System
-This project focuses on automating tests for the "Idea Center" system, a platform where users can submit and discuss innovative ideas.
-
-### The "Foody" System
-The "Foody" system project involves automating tests for a food review service API. 
-
-### The "Story Spoiler" System
-The project automates tests for the "Story Spoiler" system, an application that provides users with spoilers for their favorite stories.
+- **Idea Center** System: This project focuses on automating tests for the "Idea Center" system, a platform where users can submit and discuss innovative ideas.
+- **Foody** System: The "Foody" system project involves automating tests for a food review service API. 
+- **Story** Spoiler System: The project automates tests for the "Story Spoiler" system, an application that provides users with spoilers for their favorite stories.
 
 ## Test Case Coverage
 - User authentication and authorization
